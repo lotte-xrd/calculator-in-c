@@ -77,11 +77,3 @@ return 0;
 
 
 – Indica que o programa terminou corretamente.
-
-👉 Resumão:
-
-O programa pede operação e números.
-
-Usa switch para decidir qual conta fazer.
-
-Imprime o resultado ou avisa erro (divisão por zero / operação inválida).
